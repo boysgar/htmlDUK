@@ -1,3 +1,3 @@
 # htmlDUK
-HTML boilerplate with ready to go SASS and Presets.
+HTML/SASS - boilerplate ready to get started.
 
